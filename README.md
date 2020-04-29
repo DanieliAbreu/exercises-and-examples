@@ -1,2 +1,4 @@
 # exercises-and-examples
 Repositor de exercícios  e exemplos em Python
+
+1.0 - Treinando opção do Pull Request
