@@ -5,3 +5,4 @@ Repositor de exercícios  e exemplos em Python
 
 2.0 - Treinamdo processo de ISSUES
 
+3.0 - Criando arquivo Gitignor global
