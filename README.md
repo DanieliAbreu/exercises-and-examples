@@ -13,4 +13,9 @@ Repositor de exercícios  e exemplos em Python
    
 5.0 - Tipos Flout - Criado arquivo float.py com exemplo de numeros
     flutuantes e a sintax do numero complexo.
-    
+   
+6.0 - Variaveis - Criado arquivo Variaveis.py com exemplos de variaveis
+    permitidas pelo Python, exemplos de como atribuir valores as variaveis
+    e como identificar o tipo do valor atribuido a uma variavel.
+
+ 
