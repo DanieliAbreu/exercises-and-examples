@@ -18,4 +18,8 @@ Repositor de exercícios  e exemplos em Python
     permitidas pelo Python, exemplos de como atribuir valores as variaveis
     e como identificar o tipo do valor atribuido a uma variavel.
 
- 
+7.0 - Booleanos - Criado Arquivo Boleanos.py com exemplos de possiveis
+    utilizações em Python
+    
+ 8.0 - Desvios_Condicionais - Exemplos de possiveis utilizações dos 
+    Desvios condicionais IF - ELIF e ELSE 
