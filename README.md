@@ -26,4 +26,3 @@ Repositor de exercícios  e exemplos em Python
  
  9.0 - Criado o arquivo Lista com alguns exmplos de utlizações de uma lista em Python
  
- 
