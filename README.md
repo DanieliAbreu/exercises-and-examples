@@ -23,3 +23,7 @@ Repositor de exercícios  e exemplos em Python
     
  8.0 - Desvios_Condicionais - Exemplos de possiveis utilizações dos 
     Desvios condicionais IF - ELIF e ELSE 
+ 
+ 9.0 - Criado o arquivo Lista com alguns exmplos de utlizações de uma lista em Python
+ 
+ 
