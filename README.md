@@ -28,4 +28,6 @@ Repositor de exercícios  e exemplos em Python
  
  10.0 - Cirado o arquiov de Tupla com alguns exemplos de utilziações de uma tupla em Python
  
+ 11.0 - Criado o arquivo While com um exemplo de como usar o laço while em Python
+ 
  
