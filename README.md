@@ -21,13 +21,15 @@ Repositor de exercícios  e exemplos em Python
 7.0 - Booleanos - Criado Arquivo Boleanos.py com exemplos de possiveis
     utilizações em Python
     
- 8.0 - Desvios_Condicionais - Exemplos de possiveis utilizações dos 
+8.0 - Desvios_Condicionais - Exemplos de possiveis utilizações dos 
     Desvios condicionais IF - ELIF e ELSE 
  
- 9.0 - Criado o arquivo Lista com alguns exmplos de utlizações de uma lista em Python
+9.0 - Criado o arquivo Lista com alguns exmplos de utlizações de uma lista em Python
  
- 10.0 - Cirado o arquiov de Tupla com alguns exemplos de utilziações de uma tupla em Python
+10.0 - Cirado o arquiov de Tupla com alguns exemplos de utilziações de uma tupla em Python
  
- 11.0 - Criado o arquivo While com um exemplo de como usar o laço while em Python
+11.0 - Criado o arquivo While com um exemplo de como usar o laço while em Python
  
- 
+13.0 - Criado o arquivo FOR com exemplos de como usar o laço for em Python
+
+14.0 - Criado o arquivo Dicionarios com exemplo do usu do dicionários em Python  

@@ -51,8 +51,6 @@ print('''True and True
 print(True and True)
 print()
 
-
-
 #Exemplos e sintax do tipo booleanos
 _valor1 = 10
 _valor2 = 9
@@ -69,7 +67,3 @@ print(_valor1 >= _valor2 )
 print()
 print('Valor 1 é <= Valor 2 ?')
 print(_valor1 <= _valor2)
-
-#
-
-
