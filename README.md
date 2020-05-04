@@ -33,3 +33,5 @@ Repositor de exercícios  e exemplos em Python
 13.0 - Criado o arquivo FOR com exemplos de como usar o laço for em Python
 
 14.0 - Criado o arquivo Dicionarios com exemplo do usu do dicionários em Python  
+
+15.0 - Criado o arquivo Funcao com exemplos de funções em Python
