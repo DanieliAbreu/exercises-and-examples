@@ -26,3 +26,6 @@ Repositor de exercícios  e exemplos em Python
  
  9.0 - Criado o arquivo Lista com alguns exmplos de utlizações de uma lista em Python
  
+ 10.0 - Cirado o arquiov de Tupla com alguns exemplos de utilziações de uma tupla em Python
+ 
+ 
