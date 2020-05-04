@@ -35,3 +35,9 @@ Repositor de exercícios  e exemplos em Python
 14.0 - Criado o arquivo Dicionarios com exemplo do usu do dicionários em Python  
 
 15.0 - Criado o arquivo Funcao com exemplos de funções em Python
+
+16.0 - Criado o arquivo Import_e_name com exemlos de como pode ser feito a importação 
+    de algumas bibliotecas e/ou de aruivos do proprio projetos e o __name__ que incica
+    a execulção apenas se for o proprio arquivo que vai ser execultado.
+   
+ 
