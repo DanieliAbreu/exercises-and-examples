@@ -1,6 +1,11 @@
-#Constantes da algebra booleana
-#True
-#False
+"""
+Neste arquivo são apresentados as
+Constantes da algebra booleana
+
+True
+False
+
+"""
 
 #Operações basica da algebra de booleam são:
 # 1 - not
