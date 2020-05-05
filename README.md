@@ -40,4 +40,6 @@ Repositor de exercícios  e exemplos em Python
     de algumas bibliotecas e/ou de aruivos do proprio projetos e o __name__ que incica
     a execulção apenas se for o proprio arquivo que vai ser execultado.
    
- 17.0 - Criando pacotes para organizar o código 
+ 17.0 - Criando pacotes para organizar o código
+ 
+ 18.0 - Criado arquivo Contagem_de_Carateres_lista 
