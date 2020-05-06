@@ -44,4 +44,4 @@ Repositor de exercícios  e exemplos em Python
  
  18.0 - Criado arquivo Contagem_de_Carateres_lista 
  
- 
+ 19.0 - Criado arquivo Contagem_de_caracteres_Dct
