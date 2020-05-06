@@ -43,3 +43,5 @@ Repositor de exercícios  e exemplos em Python
  17.0 - Criando pacotes para organizar o código
  
  18.0 - Criado arquivo Contagem_de_Carateres_lista 
+ 
+ 
